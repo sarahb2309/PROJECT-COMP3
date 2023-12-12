@@ -1,5 +1,5 @@
-# Pt Python Pro Racing
-First Game Design from Madalena
+# Pit Python Pro Racing
+Comp project from Sarah
 
 ## Dependencies
 pip install pygame
